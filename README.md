@@ -3,3 +3,8 @@ A C based wargame simulation project built quickly then refactored to try and be
 The goal for the engine itself is to capture conditionals such as type, weather, terrain, support systems and combat situationals and convert those into -> modifiers to allow for a calculation of victory/defeat in scenarios looking at the probability based off certain requirements.
 
 Future plans: More conditions, more resources and resource supplies and a GUI hopefully a basic one rendered in OpenGL.
+
+
+
+UML/Flow:
+<img width="1505" height="1041" alt="text-war-simUML drawio" src="https://github.com/user-attachments/assets/c9272940-d1ab-4984-a48c-ca01b4586150" />
